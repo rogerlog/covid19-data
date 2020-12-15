@@ -31,7 +31,4 @@ https://coronavirus-19-api.herokuapp.com/countries
 
 ### Imagem ilustrativa do projeto
 
-![https://github.com/rogerlog/covid19-data/blob/main/.demoimg/Screenshot%20from%202020-12-15%2018-21-50.png]()
-
-
-
+![](/.demoimg/Screenshot%20from%202020-12-15%2018-21-50.png)
